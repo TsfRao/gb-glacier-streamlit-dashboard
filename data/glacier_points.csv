@@ -1,0 +1,6 @@
+glacier_id,glacier,basin,lat,lon,module,priority,note
+G001,Batura Glacier,Hunza,36.506,74.617,NDSI baseline,High,Long-term Landsat/NDSI monitoring anchor
+G002,Shishper Glacier,Hunza,36.282,74.602,Lake/GLOF watch,High,Secondary lake expansion and preparedness module
+G003,Passu Glacier,Hunza,36.481,74.875,Optical + DEM,Medium,Map glacier area and nearby exposure
+G004,Hispar Glacier,Nagar,36.187,75.350,Optical + SAR optional,Medium,Large glacier; future velocity module
+G005,Baltoro Glacier,Shigar,35.739,76.484,Optical + 4D future,Medium,Future photogrammetry/DEM differencing candidate
