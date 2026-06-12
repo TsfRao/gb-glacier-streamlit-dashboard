@@ -1,0 +1,5 @@
+basin,year,snow_cover_status,snow_cover_area_km2,lake_status,lake_area_change_pct,sar_velocity_status,river_flow_status,community_reports,risk_score
+Hunza,2023,Watch,107,Stable/Watch,6.5,Priority glacier only,Normal,4,62
+Hunza,2024,Normal,110,Stable,2.1,Not processed,Normal,2,44
+Shigar,2023,Normal,95,Stable,1.4,Not processed,Normal,1,32
+Nagar,2023,Watch,88,Increasing,8.2,Suggested,Low seasonal flow,5,68
